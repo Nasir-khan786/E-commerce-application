@@ -1,0 +1,51 @@
+{
+  "seller": [
+    {
+      "name": "Sam",
+      "password": "abc123",
+      "email": "anil123@gtmail.com",
+      "id": 1
+    },
+    {
+      "name": "Mohd Nasir Khan",
+      "password": "Hamid#1232",
+      "email": "nk91146239@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Hamid Khan",
+      "password": "hamid#123",
+      "email": "hamid@gmail.com",
+      "id": 14
+    }
+  ],
+  "products": [
+    {
+      "name": "Iphone",
+      "price": "120000",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "Iphone Mobile",
+      "image": "https://www.istockphoto.com/photo/iphone-13-pro-gm1364620309-435778900",
+      "id": 1
+    },
+    {
+      "name": "Samsung",
+      "price": "23000",
+      "category": "Mobile",
+      "color": "White",
+      "description": "Samsung Phone",
+      "image": "https://help.swiftic.com/hc/en-us/articles/201569362-Find-Your-Mobile-Site-URL",
+      "id": 2
+    },
+    {
+      "name": "HP Laptop",
+      "price": "60000",
+      "category": "Laptop",
+      "color": "Silver",
+      "description": "HP Laptop",
+      "image": "https://www.shutterstock.com/image-photo/kyiv-ukraine-fabruary-28th-2017-hp-590283734",
+      "id": 3
+    }
+  ]
+}
